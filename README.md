@@ -1,8 +1,8 @@
-# 📈 Mercado Financeiro Backend - Portfólio
+#  Mercado Financeiro Backend - Portfólio
 
 Este repositório reúne projetos de nível corporativo voltados para o ecossistema do mercado financeiro, com foco em alta performance, concorrência, compliance e segurança arquitetural utilizando Java Moderno.
 
-## 🚀 Projetos Integrados
+##  Projetos Integrados
 
 ### 1. Ingestion Pipeline de Ativos Financeiros (`01-pipeline-ingestao-ativos`)
 Pipeline de alta performance capaz de consumir APIs públicas de finanças para monitorar ativos simultaneamente.
